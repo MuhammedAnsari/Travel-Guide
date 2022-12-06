@@ -6,6 +6,9 @@ h5{
     font-family: 'Source Sans Pro', sans-serif;
     color: red;
 }
+h4{
+    font-family: 'Source Sans Pro', sans-serif;
+}
 p{
     font-family: 'Crimson Text', serif;
 }
@@ -144,4 +147,139 @@ header{
 .image__overlay:hover{
     opacity: 1;
 }
+#premium{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.premium-txt{
+    color: red;
+    font-family: 'Pacifico', cursive;
+}
+.pre-class{
+    margin-left: 10%;
+}
 
+.premium-img{
+    margin-left: 10%;
+    width: 80%;
+    height: 250px;
+    padding: 10px;
+}
+.premium-card{
+    float: left;
+    margin-right: 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    background-color: rgb(227, 227, 249);
+}
+.premium-items{
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    margin-top: 10%;
+}
+.premium-link{
+    text-decoration: none;
+    color: blueviolet;
+}
+#feedback{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.feedback-txt{
+    margin-top: 10px;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: rgb(120, 6, 185);
+}
+.feedback-cover{
+    width: 80%;
+    height: 300px;
+    margin-left: 10%;
+}
+.feed-card{
+    float: left;
+    margin-right: 100px;
+    width: 250px;
+    height: 250px;
+}
+.feed-class{
+    margin-left: 10%;
+}
+.feed-img{
+    height: 150px;
+    width: 250px;
+}
+.fa-star{
+    color: green;
+}
+.fa-star-half-stroke{
+    color: green;
+}
+footer{
+    background-color: rgb(11, 3, 55);
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+}
+.footer-tiles{
+    width: 80%;
+    height: 250px;
+    margin-left: 10%;
+    /* background-color: gray; */
+}
+#foot-content{
+    float: left;
+    margin-right: 70px;
+}
+.about-us{
+    width: 20%;
+    height: 100%;
+}
+
+.social-media{
+    /* background-color: red; */
+    width: 30%;
+    height: 100%;
+}
+.explore{
+    width: 25%;
+    height: 100%;
+    text-align: center;
+}
+.abt-txt{
+    color: orange;
+}
+.abt-links{
+    display: block;
+    line-height: 40px;
+    text-decoration: none;
+    color: white;
+}
+.abt-links:hover{
+    color: orange;
+}
+.social-txt{
+    color: orange;
+    margin-left: 30px;
+}
+.foot-ico{
+    color: white;
+    margin-right: 20px;
+}
+.foot-ico:hover{
+    color: orange;
+    cursor: pointer;
+}
+.explore-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+.explo{
+    margin-top: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
